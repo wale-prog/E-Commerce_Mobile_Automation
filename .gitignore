@@ -41,3 +41,4 @@ build/
 src/test/java/utils/logs
 Reports
 src/test/java/Resources
+src/test/java/testData.properties
