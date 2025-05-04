@@ -23,7 +23,6 @@
 
 ### Prerequisites
 - IDE, preferably Intellij but Eclipse should be fine too
-- 
 ## Getting Started
 To get a local copy of the program running, follow these simple steps
 
